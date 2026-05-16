@@ -1,74 +1,89 @@
-# Hi, I'm Nicholas Silva
+# Hi there, I'm Nicholas Silva 👋
 
-## Backend Java Developer | Spring Boot | REST APIs
+## 🚀 Backend Java Developer
 
-I'm a Backend Java Developer from Brazil with nearly 3 years of experience building and maintaining backend systems using Java, Spring Boot, Spring Security, REST APIs, and SQL.
+I'm a Backend Java Developer from Brazil with nearly 3 years of experience building and maintaining backend systems with **Java**, **Spring Boot**, **Spring Security**, **REST APIs**, and **SQL**.
 
-I enjoy working on reliable APIs, clean architecture, production debugging, and real-world software solutions.
-
----
-
-## Main Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I enjoy creating reliable backend solutions, improving existing systems, solving production issues, and writing clean, maintainable code.
 
 ---
 
-## Also Working With
+## 🧑‍💻 About Me
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Featured Projects
-
-### Digital Library Management System
-
-REST API for managing users, books, loans, and returns with authentication, authorization, and role-based access control.
-
-**Stack:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, PostgreSQL, Docker, Swagger
+- 🔹 Backend-focused developer
+- 🔹 Strong experience with Java and Spring ecosystem
+- 🔹 Interested in clean architecture and scalable APIs
+- 🔹 Experience with debugging, bug fixing, and production support
+- 🔹 Software Engineering student
 
 ---
 
-### TicTacToe Online
+## 🛠️ Tech Stack
 
-Real-time multiplayer Tic-Tac-Toe game using WebSocket communication, online presence control, match persistence, and offline game modes.
+<div align="left">
 
-**Stack:** Java, Spring Boot, WebSocket, STOMP, MongoDB, HTML, CSS, JavaScript
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-nich&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-nich&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev-nich&theme=tokyonight&hide_border=true)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />
 
 </div>
 
 ---
 
-## Contact
+## 🌟 Featured Projects
+
+### 📚 Digital Library Management System
+REST API for managing users, books, loans, and returns with authentication and role-based access control.
+
+**Stack:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, PostgreSQL, Docker, Swagger
+
+### 🎮 TicTacToe Online
+Real-time multiplayer Tic-Tac-Toe game with WebSocket communication, online presence control, and offline game modes.
+
+**Stack:** Java, Spring Boot, WebSocket, STOMP, MongoDB, HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Nich&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nich&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Dev-Nich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- ⚡ Building better backend projects
+- ⚡ Improving Java and Spring Boot skills
+- ⚡ Writing clean and scalable APIs
+- ⚡ Strengthening my portfolio with real-world projects
+
+---
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicholas%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholassilva01)
-[![GitHub](https://img.shields.io/badge/GitHub-Dev--nich-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-nich)
+[![GitHub](https://img.shields.io/badge/GitHub-Dev--Nich-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Nich)
 [![Email](https://img.shields.io/badge/Email-nicholas.silva2005%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholas.silva2005@hotmail.com)
 
 ---
 
-> Building reliable backend systems with Java, Spring Boot, clean architecture, and real-world problem solving.
+> 💡 Building reliable backend systems with Java, Spring Boot, and a strong focus on real-world problem solving.
