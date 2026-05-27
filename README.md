@@ -45,10 +45,6 @@ I enjoy creating reliable backend solutions, improving existing systems, solving
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicholass01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholass01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img height="170" src="https://streak-stats.demolab.com?user=Dev-Nich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
