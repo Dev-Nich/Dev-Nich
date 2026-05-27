@@ -41,20 +41,6 @@ I enjoy creating reliable backend solutions, improving existing systems, solving
 
 ---
 
-## 🌟 Featured Projects
-
-### 📚 Digital Library Management System
-REST API for managing users, books, loans, and returns with authentication and role-based access control.
-
-**Stack:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, PostgreSQL, Docker, Swagger
-
-### 🎮 TicTacToe Online
-Real-time multiplayer Tic-Tac-Toe game with WebSocket communication, online presence control, and offline game modes.
-
-**Stack:** Java, Spring Boot, WebSocket, STOMP, MongoDB, HTML, CSS, JavaScript
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
